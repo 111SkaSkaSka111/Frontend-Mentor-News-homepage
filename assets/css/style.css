@@ -191,7 +191,6 @@ nav ul li:hover {
     body {
         width: 100%;
         height: fit-content;
-        border: 5px solid #eee;
         padding: 0 0 50px 0;
     }
 
